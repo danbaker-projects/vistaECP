@@ -5,6 +5,8 @@ to a Honeywell Vista alarm system
 using the ECP 12vdc serial interface and Alain Turbide's software at:
 https://github.com/Dilbert66/esphome-vistaECP.
 
+<img width="3472" height="4624" alt="vistaECP-mounted-on-honeywell-panel" src="https://github.com/user-attachments/assets/5f68194e-ff8e-4aae-89a2-4b584fec887d" />
+
 This involves soldering parts to a printed circuit board, so be very careful how you pronounce the word solder.
 Either the 'l' is silent and the 'r' is pronounced, or maybe it's the other way around. One is the good way, and the other way is stupid and evil.
 It's like those mindless jerks who insist on breaking their eggs on the wrong end. Gulliver can tell you more about that.
@@ -34,3 +36,12 @@ I started work on a board supporting either a D1 mini board or an ESP32-WROOM-32
 this version works so well for me.
 
 Dan Baker
+
+<img width="1083" height="603" alt="vistaECP-Front-2026-09-30" src="https://github.com/user-attachments/assets/60171222-cd28-4099-a38c-352ac4db4ef4" />
+
+<img width="1083" height="603" alt="vistaECP-Back-2026-09-30" src="https://github.com/user-attachments/assets/afc639b5-ee32-4044-aa6d-d97f4734e7b6" />
+
+
+[vistaECP-Schematic.pdf](https://github.com/user-attachments/files/32884098/vistaECP-Schematic.pdf)
+
+
