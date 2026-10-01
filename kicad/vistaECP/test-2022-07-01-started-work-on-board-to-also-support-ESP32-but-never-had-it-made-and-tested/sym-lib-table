@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "vistaECP-rescue")(type "Legacy")(uri "${KIPRJMOD}/vistaECP-rescue.lib")(options "")(descr ""))
+)
