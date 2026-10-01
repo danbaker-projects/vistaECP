@@ -1,0 +1,30 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP AP9101CAK-AKTRG1
+D IC BATT PROT LI-ION 1-CELL SOT25
+K AP9101CAK-AKTRG1DICT-ND
+F https://www.diodes.com/assets/Datasheets/AP9101C.pdf
+$ENDCMP
+#
+$CMP Newhaven-NHD-C12832A1Z
+D Newhaven NCH-C12832A1Z LCD Display
+K LCD DISPLAY
+$ENDCMP
+#
+$CMP SSR-CPC1965Y
+D Solid State Relay CPC1965Y SIP Package
+K SSR
+$ENDCMP
+#
+$CMP TSM6968DCA-RVG
+D MOSFET 2 N-CH 20V 6.5A 8TSSOP
+K TSM6968DCARVGCT-ND
+F http://www.taiwansemi.com/products/datasheet/TSM6968D_E15.pdf
+$ENDCMP
+#
+$CMP stereo-jack
+D Stereo Jack, 5-pin
+K stereo, audio
+$ENDCMP
+#
+#End Doc Library
