@@ -3,9 +3,15 @@ ECP 4-wire interface for Honeywell (Ademco) Alarm Panels such as Vista 20P
 This circuit board allows you to connect an ESP32-WROOM-32 module or an ESP8266 D1 mini module
 to a Honeywell Vista alarm system
 using the ECP 12vdc serial interface and Alain Turbide's software at:
-https://github.com/Dilbert66/esphome-vistaECP
+https://github.com/Dilbert66/esphome-vistaECP.
 
-Based on a modified (by Andrew Selle : eselle) version of Alain Turbide : Dilbert66's original interface circuit
+This involves soldering parts to a printed circuit board, so be very careful how you pronounce the word solder.
+Either the 'l' is silent and the 'r' is pronounced, or maybe it's the other way around. One is the good way, and the other way is stupid and evil.
+It's like those mindless jerks who insist on breaking their eggs on the wrong end. Gulliver can tell you more about that.
+
+Where was I????? Oh, yeah...
+
+This circuit is based on a modified (by Andrew Selle : eselle) version of Alain Turbide : Dilbert66's original interface circuit
 
 I've been using it for several years to interface my Honeywell system to Home Assistant using esphome-vistaECP by Alain Turbide. (thanks Dilbert66)
 
